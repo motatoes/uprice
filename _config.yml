@@ -32,7 +32,7 @@ links:
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: #
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
@@ -53,7 +53,7 @@ links:
     # LINKEDIN
   - Name: LinkedIn
     URL: https://linkedin.com
-    Username: harsh98trivedi
+    Username: #
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
